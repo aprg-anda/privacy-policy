@@ -1,0 +1,24 @@
+[Adatvédelmi irányelvek]
+
+1. Bevezetés
+Ez az adatvédelmi irányelv részletezi, hogyan gyűjtjük, használjuk és védjük a felhasználók adatait.
+
+2. Gyűjtött adatok
+- Személyes azonosító adatok: Nem gyűjtünk semmilyen adatot.
+- Nem személyes azonosító adatok: Nem gyűjtünk semmilyen adatot.
+
+4. Adatvédelmi intézkedések
+- Az adatokhoz való hozzáférés korlátozva van a kérdező személyére, kivéve ha nyilvános felületen kérdez.
+
+5. Adatok megosztása
+Az adatokat harmadik felekkel csak a felhasználó beleegyezésével osztjuk meg, kivéve, ha törvény kötelez minket erre.
+
+6. Felhasználói jogok
+- Hozzáférés saját adatokhoz
+- Adatok módosítása vagy törlése
+- Hozzájárulás visszavonása
+
+7. Kapcsolat
+Kérdések esetén vegye fel velünk a kapcsolatot az alábbi elérhetőségen: a.gergely@andapresent.hu
+
+Dátum: 2024.07.15
